@@ -1,11 +1,11 @@
 ### Yoo hooman 👋 It's me Shreya !
 
 
-- 🔭 I’m currently working on prolly something cool :) [java project] 
-- 🌱 I’m currently learning c/c++, java and ML (DSA too)
-- 🤔 I’m looking for help with ntg atm
-- 💬 Ask me about coding, projects, music, series, life and wtv stuff...
-- 😄 Pronouns: she/her
+- 🔭 I’m currently working on finding peeps for hackathons. 
+- 🌱 I’m currently learning web development, dsa.
+- 🤔 I’m looking for buddies to study or code together-> active on discord : username @! Mayy#5791 
+- 💬 Ask me about coding, projects, music, series, mythology, life and wtv stuff...
+- 😄 Pronouns: she/her (20yo)
 - ⚡ Fun fact: uhh nvm don't wanna scare ya! [connect with me u'll know 👀]
 
 
