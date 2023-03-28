@@ -1,7 +1,7 @@
 ### Yoo hooman 👋 It's me Shreya !
 
 
-- 🔭 I’m currently working on finding peeps for hackathons. 
+- 🔭 I’m currently working on projects finding peeps for hackathons (ML and dev). 
 - 🌱 I’m currently learning web development, dsa.
 - 🤔 I’m looking for buddies to study or code together-> active on discord : username @! Mayy#5791 
 - 💬 Ask me about coding, projects, music, series, mythology, life and wtv stuff...
