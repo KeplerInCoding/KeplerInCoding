@@ -34,7 +34,8 @@
 
 <div align="center">
   
-  [<img src="https://spotify-lyy8dtijy-keplerincoding.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/au3j9dyoyj8pdrn04aul2u1t3)
+  [<img src="https://spotify-lyy8dtijy-keplerincoding.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Shreya Spotify Playing" width="400" />](https://open.spotify.com/user/au3j9dyoyj8pdrn04aul2u1t3)
+ 
   
   <img height="200" src="https://media.tenor.com/Bpv9wTLKMskAAAAC/computer-nerds.gif"  />
   
