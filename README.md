@@ -43,9 +43,10 @@
 
 ###
 
+<div align="center">
 <p align="left">- 🔭 I’m currently working on projects finding peeps for hackathons (ML and dev). <br>- 🌱 I’m currently learning web development, dsa.<br>- 🤔 I’m looking for buddies to study or code together-> active on discord : username @! Mayy#5791 <br>- 💬 Ask me about coding, projects, music, series, mythology, life and wtv stuff...<br>- 😄 Pronouns: she/her (20yo)<br>- ⚡ Fun fact: uhh nvm don't wanna scare ya! [connect with me u'll know 👀]</p>
 
-
+</div>
 
 
 
