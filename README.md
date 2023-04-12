@@ -3,6 +3,11 @@
 
 ###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/KeplerInCoding/count.svg?"  />
+</div>
+
+
 
 <br clear="both">
 
@@ -22,7 +27,15 @@
 </div>
 
 
+
+
+
+
+
 <div align="center">
+  
+  [<img src="https://spotify-lyy8dtijy-keplerincoding.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/au3j9dyoyj8pdrn04aul2u1t3)
+  
   <img height="200" src="https://media.tenor.com/Bpv9wTLKMskAAAAC/computer-nerds.gif"  />
   
 </div>
