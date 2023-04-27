@@ -1,5 +1,8 @@
 
-<h1 align="center">Yoo smart hoomans👋!! It's mee Shreya !</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Yo smart hoomans👋!! It's me Shreya &#59 &#41" align="middle" alt="Yo smart hoomans👋!! It's me Shreya !! animated typed out" width="100%"/>
+<h3 align="center">A passionate software engineer from India</h3>
+
+
 
 ###
 
