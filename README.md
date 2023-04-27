@@ -48,7 +48,7 @@
 ###
 
 <div align="center">
-<p align="left">- 🔭 Currently working on projects, finding peeps for hackathons (ML and dev). <br>- 🌱 Passionate about staying up-to-date with the latest tech trends, I'm always learning new skills and currently mastering MERN stack and DSA<br>- 🤔 Looking for buddies to study or code together-> active on discord as : username @! Mayy#5791 <br>- 💬 Ask me about coding, projects, music, series, mythology, life and wtv stuff...<br>- 😄 Pronouns: she/her (20yo)<br>- ⚡ Fun fact: Uhh nvm, don't wanna scare ya ! [brave enough ? connect with me to know 👀]</p>
+<p align="left">- 🔭 Currently working on projects, finding peeps for hackathons (ML and dev). <br>- 🌱 Passionate about staying up-to-date with the latest tech trends, I'm always learning new skills and currently mastering MERN stack and DSA<br>- 🤔 Looking for buddies to study or code together-> active on discord as : username @shr.yey#4488 <br>- 💬 Ask me about coding, projects, music, series, mythology, life and wtv stuff...<br>- 😄 Pronouns: she/her (20yo)<br>- ⚡ Fun fact: Uhh nvm, don't wanna scare ya ! [brave enough ? connect with me to know 👀]</p>
 
 </div>
 
