@@ -1,6 +1,6 @@
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Yo smart hoomans👋!! It's me Shreya &#59 &#41" align="middle" alt="Yo smart hoomans👋!! It's me Shreya !! animated typed out" width="100%"/>
-<h3 align="center">A passionate software engineer from India</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Yo smart hoomans👋!! It's me Shreya !!" align="middle" alt="Yo smart hoomans👋!! It's me Shreya !! animated typed out" width="100%"/>
+<h3 align="center">An enthusiastic software developer hailing from India</h3>
 
 
 
@@ -48,7 +48,7 @@
 ###
 
 <div align="center">
-<p align="left">- 🔭 I’m currently working on projects finding peeps for hackathons (ML and dev). <br>- 🌱 I’m currently learning web development, dsa.<br>- 🤔 I’m looking for buddies to study or code together-> active on discord : username @! Mayy#5791 <br>- 💬 Ask me about coding, projects, music, series, mythology, life and wtv stuff...<br>- 😄 Pronouns: she/her (20yo)<br>- ⚡ Fun fact: uhh nvm don't wanna scare ya! [connect with me u'll know 👀]</p>
+<p align="left">- 🔭 Currently working on projects, finding peeps for hackathons (ML and dev). <br>- 🌱 Passionate about staying up-to-date with the latest tech trends, I'm always learning new skills and currently mastering MERN stack and DSA<br>- 🤔 Looking for buddies to study or code together-> active on discord as : username @! Mayy#5791 <br>- 💬 Ask me about coding, projects, music, series, mythology, life and wtv stuff...<br>- 😄 Pronouns: she/her (20yo)<br>- ⚡ Fun fact: I have a secret to share, but you'll have to connect with me to find out. 👀</p>
 
 </div>
 
